@@ -1,0 +1,204 @@
+{
+  "primal_bound": 149.0,
+  "dual_bound": 149.0,
+  "ships": [
+    {
+      "data_ship_id": 0,
+      "data_arrival_time": 43,
+      "data_handling_time": 28,
+      "data_ship_length": 4,
+      "mooring_time": 67,
+      "completion_time": 95,
+      "mooring_berth": 0,
+      "waiting_time": 24
+    },
+    {
+      "data_ship_id": 1,
+      "data_arrival_time": 31,
+      "data_handling_time": 5,
+      "data_ship_length": 3,
+      "mooring_time": 32,
+      "completion_time": 37,
+      "mooring_berth": 17,
+      "waiting_time": 1
+    },
+    {
+      "data_ship_id": 2,
+      "data_arrival_time": 8,
+      "data_handling_time": 20,
+      "data_ship_length": 5,
+      "mooring_time": 8,
+      "completion_time": 28,
+      "mooring_berth": 5,
+      "waiting_time": 0
+    },
+    {
+      "data_ship_id": 3,
+      "data_arrival_time": 14,
+      "data_handling_time": 23,
+      "data_ship_length": 5,
+      "mooring_time": 44,
+      "completion_time": 67,
+      "mooring_berth": 0,
+      "waiting_time": 30
+    },
+    {
+      "data_ship_id": 4,
+      "data_arrival_time": 36,
+      "data_handling_time": 30,
+      "data_ship_length": 5,
+      "mooring_time": 37,
+      "completion_time": 67,
+      "mooring_berth": 20,
+      "waiting_time": 1
+    },
+    {
+      "data_ship_id": 5,
+      "data_arrival_time": 42,
+      "data_handling_time": 33,
+      "data_ship_length": 4,
+      "mooring_time": 42,
+      "completion_time": 75,
+      "mooring_berth": 25,
+      "waiting_time": 0
+    },
+    {
+      "data_ship_id": 6,
+      "data_arrival_time": 101,
+      "data_handling_time": 20,
+      "data_ship_length": 7,
+      "mooring_time": 129,
+      "completion_time": 149,
+      "mooring_berth": 3,
+      "waiting_time": 28
+    },
+    {
+      "data_ship_id": 7,
+      "data_arrival_time": 0,
+      "data_handling_time": 22,
+      "data_ship_length": 6,
+      "mooring_time": 0,
+      "completion_time": 22,
+      "mooring_berth": 23,
+      "waiting_time": 0
+    },
+    {
+      "data_ship_id": 8,
+      "data_arrival_time": 38,
+      "data_handling_time": 13,
+      "data_ship_length": 8,
+      "mooring_time": 122,
+      "completion_time": 135,
+      "mooring_berth": 12,
+      "waiting_time": 84
+    },
+    {
+      "data_ship_id": 9,
+      "data_arrival_time": 71,
+      "data_handling_time": 33,
+      "data_ship_length": 9,
+      "mooring_time": 96,
+      "completion_time": 129,
+      "mooring_berth": 20,
+      "waiting_time": 25
+    },
+    {
+      "data_ship_id": 10,
+      "data_arrival_time": 29,
+      "data_handling_time": 11,
+      "data_ship_length": 4,
+      "mooring_time": 29,
+      "completion_time": 40,
+      "mooring_berth": 13,
+      "waiting_time": 0
+    },
+    {
+      "data_ship_id": 11,
+      "data_arrival_time": 135,
+      "data_handling_time": 14,
+      "data_ship_length": 7,
+      "mooring_time": 135,
+      "completion_time": 149,
+      "mooring_berth": 10,
+      "waiting_time": 0
+    },
+    {
+      "data_ship_id": 12,
+      "data_arrival_time": 3,
+      "data_handling_time": 10,
+      "data_ship_length": 4,
+      "mooring_time": 22,
+      "completion_time": 32,
+      "mooring_berth": 17,
+      "waiting_time": 19
+    },
+    {
+      "data_ship_id": 13,
+      "data_arrival_time": 129,
+      "data_handling_time": 19,
+      "data_ship_length": 8,
+      "mooring_time": 130,
+      "completion_time": 149,
+      "mooring_berth": 20,
+      "waiting_time": 1
+    },
+    {
+      "data_ship_id": 14,
+      "data_arrival_time": 67,
+      "data_handling_time": 21,
+      "data_ship_length": 5,
+      "mooring_time": 75,
+      "completion_time": 96,
+      "mooring_berth": 15,
+      "waiting_time": 8
+    },
+    {
+      "data_ship_id": 15,
+      "data_arrival_time": 104,
+      "data_handling_time": 19,
+      "data_ship_length": 3,
+      "mooring_time": 130,
+      "completion_time": 149,
+      "mooring_berth": 0,
+      "waiting_time": 26
+    },
+    {
+      "data_ship_id": 16,
+      "data_arrival_time": 81,
+      "data_handling_time": 46,
+      "data_ship_length": 7,
+      "mooring_time": 81,
+      "completion_time": 127,
+      "mooring_berth": 4,
+      "waiting_time": 0
+    },
+    {
+      "data_ship_id": 17,
+      "data_arrival_time": 50,
+      "data_handling_time": 27,
+      "data_ship_length": 4,
+      "mooring_time": 95,
+      "completion_time": 122,
+      "mooring_berth": 11,
+      "waiting_time": 45
+    },
+    {
+      "data_ship_id": 18,
+      "data_arrival_time": 90,
+      "data_handling_time": 29,
+      "data_ship_length": 4,
+      "mooring_time": 96,
+      "completion_time": 125,
+      "mooring_berth": 0,
+      "waiting_time": 6
+    }
+  ],
+  "solver": [
+    "s",
+    "pa",
+    "gspp",
+    "bapc",
+    "ti",
+    "rp"
+  ]
+}
