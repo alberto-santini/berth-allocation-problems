@@ -1,4 +1,4 @@
-## Instances, Best Known Solutions and Models for Berth Allocation Problems
+## Instances and Best Known Solutions for Berth Allocation Problems
 
 This repository contains instances and best known solutions for Berth Allocation Problems.
 At the present moment, it contains data for problems with the following characteristics:
