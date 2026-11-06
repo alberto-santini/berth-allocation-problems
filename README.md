@@ -84,7 +84,7 @@ You can cite this repository via Zenodo:
     author={Santini, Alberto},
     date={2025-11-20},
     howpublished={Github repository},
-    doi={10.5281/zenodo.17665596},
+    doi={10.5281/zenodo.24006051},
     url={https://github.com/alberto-santini/berth-allocation-problems/}
 }
 ```
